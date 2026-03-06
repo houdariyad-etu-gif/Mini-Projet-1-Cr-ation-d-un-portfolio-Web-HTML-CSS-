@@ -57,7 +57,7 @@ portfolio/
 ## Fonctionnalités
 
 - Navigation sticky avec scroll fluide
-- Menu hamburger responsive (pur CSS, sans JavaScript)
+- Menu hamburger responsive (pur CSS)
 - Animation `fadeInUp` au chargement de la page
 - Effets hover sur les cartes, la timeline et les boutons
 - Timeline interactive avec effet au survol
@@ -68,7 +68,6 @@ portfolio/
 
 - HTML5 sémantique
 - CSS3 (Flexbox, Grid, animations, media queries)
-- Aucun framework ni JavaScript
 
 ---
 
