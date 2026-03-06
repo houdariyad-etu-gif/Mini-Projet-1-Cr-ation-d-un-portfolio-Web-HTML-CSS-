@@ -7,7 +7,7 @@ Mini Projet 1 – Développement Web | HTML5 & CSS3
 ## Présentation
 
 Portfolio web personnel conçu dans le cadre du Mini Projet 1.  
-Le site présente mon parcours académique, mes compétences techniques et mes projets réalisés durant ma formation en Intelligence Artificielle.
+Le site présente mon parcours académique, mes compétences techniques et mes projets réalisés durant ma formation en Développement Web , Intelligence Artificielle et Systèmes Distribués.
 
 ---
 
